@@ -1,0 +1,18 @@
+
+#parent{
+    display: grid;
+    width: 400px;
+    border: 2px solid red;
+    padding:12px;
+    background-color: cadetblue;
+    grid-template-columns:minmax(10px,20px)  2fr 1fr;
+    grid-template-rows: 200px 200px 200px;
+}
+.child{
+    padding: 30px;
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+    background-color: brown;
+}

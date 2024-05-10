@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 126, 150);
+    background-image: url(img1.jpg);
+    background-repeat:repeat;
+}
+h1{
+    color:white;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration:underline;
+    text-align: center;
+    
+}
+p{
+    color: aliceblue;
+    font-size: xx-large;
+    line-height: 50px;
+    text-indent: 20px;
+}
